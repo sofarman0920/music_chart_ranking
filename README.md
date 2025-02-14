@@ -9,7 +9,7 @@
 - 사용자 선택에 따른 맞춤형 순위 예측 제공
 
 ## 사용된 기술
-- Python 3.x
+- Python 3.12
 - pandas: 데이터 처리 및 분석
 - scikit-learn: 머신러닝 모델 구현
   - RandomForestRegressor
